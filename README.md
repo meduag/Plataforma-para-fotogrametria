@@ -14,11 +14,12 @@ Control Preciso del Motor de Paso: El sistema de control implementado en Arduino
 Automatización de Captura: La plataforma está diseñada para moverse automáticamente según un patrón predefinido, capturando imágenes desde diferentes ángulos para una reconstrucción 3D precisa.
 
 Contenido del Repositorio
-arduino_code/: Este directorio contiene el código fuente de Arduino necesario para controlar el motor de paso y coordinar la captura de imágenes.
 
-fusion360_designs/: Aquí encontrarás los archivos de diseño de Fusion 360 que representan la estructura y los componentes de la plataforma.
+Codigo de Arduino/: Este directorio contiene el código fuente de Arduino necesario para controlar el motor de paso y coordinar la captura de imágenes.
 
-documentation/: Documentación detallada sobre el ensamblaje, la configuración y el uso de la plataforma. Incluye diagramas, instrucciones paso a paso y consejos para optimizar los resultados de fotogrametría.
+Desenho em Fusion 360/: Aquí encontrarás los archivos de diseño de Fusion 360 que representan la estructura y los componentes de la plataforma.
+
+documentación/: Documentación detallada sobre el ensamblaje, la configuración y el uso de la plataforma. Incluye diagramas, instrucciones paso a paso y consejos para optimizar los resultados de fotogrametría.
 
 Requisitos del Hardware
 Placa Arduino compatible.
